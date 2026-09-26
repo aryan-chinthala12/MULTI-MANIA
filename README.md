@@ -1,4 +1,4 @@
-# MultiBtOut — mirror Windows system audio to multiple Bluetooth sinks
+# Multi-Mania — mirror Windows system audio to multiple Bluetooth sinks
 
 A .NET 8 WPF application that captures **everything Windows is playing** (VLC, Chrome,
 Netflix, games — anything that goes through the default render endpoint) via WASAPI
